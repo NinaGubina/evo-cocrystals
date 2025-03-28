@@ -13,6 +13,8 @@
 
 `ml_models/run.ipynb` - ноутбук с демонстрацией использования classifier.py для предсказания механических свойств
 
+`ml_models/requirements.txt` - версии библиотек для запуска предсказательных моделей (Python 3.8)
+
 ### :link: Полезные ссылки
 GEMCODE: `https://github.com/ai-chem/GEMCODE`
 
